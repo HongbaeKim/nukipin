@@ -78,7 +78,7 @@ Use separate PIN per lock	❌	You currently use the same PIN on all locks, which
 To get lockID
 
 curl -X GET https://api.nuki.io/smartlock \
-  -H "Authorization: Bearer 014f286c457e9a23f48483a70f4d89b340a7c96c4363e1006f346f251742936c9a486c19c8044ee9" \
+  -H "Authorization: Bearer *********************************" \
   -H "Content-Type: application/json"
 
   
